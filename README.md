@@ -1,4 +1,4 @@
-# Sklep
+# Planer lotów
 
 | Termin oddania | Punkty     |
 |----------------|:-----------|
@@ -11,14 +11,15 @@ Przekroczenie terminu o **n** zajęć wiąże się z karą:
 --- 
 ### Zadanie 
 Bazując na prezentowanym na wykładzie przykładzie `flight_planner`, 
-rozbudować go o następującą funkcjonalność:
+rozbudować go o następujące funkcjonalności:
 - program powinien umożliwiać wybieranie lotów pomiędzy konkretnymi miastami, 
   w konkretnym przedziale czasowym oraz z odpowiednim limitem cenowym
 - taka wyszukiwarka powinna posiadać opcje wyszukiwania lotów:
   * najtańszych
   * najszybszych
   * najlepiej dopasowanych do ograniczeń czasowych
-- program powinien również uwględniać dostępne w samolotach miejsca.
+- program powinien również uwzględniać nie tylko dostępność samolotu 
+	ale także dostępne w samolotach miejsca.
   
 Stosując BDD, zdefiniować odpowiednie, *features*, *user stories* i *use cases*.
 
