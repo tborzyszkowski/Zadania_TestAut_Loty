@@ -2,7 +2,7 @@
 
 | Termin oddania | Punkty     |
 |----------------|:-----------|
-|    21.01.2022  23:00 |  10         |
+|    26.01.2023  16:00 |  10         |
 
 --- 
 Przekroczenie terminu o **n** zajęć wiąże się z karą:
@@ -17,7 +17,7 @@ rozbudować go o następujące funkcjonalności:
 - taka wyszukiwarka powinna posiadać opcje wyszukiwania lotów:
   * najtańszych
   * najszybszych
-  * najlepiej dopasowanych do ograniczeń czasowych
+  * najlepiej dopasowanych do ograniczeń czasowych (wylot / przylot)
 - program powinien również uwzględniać nie tylko dostępność samolotu 
 	ale także dostępne w samolotach miejsca.
   
