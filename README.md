@@ -2,7 +2,7 @@
 
 | Termin oddania | Punkty     |
 |----------------|:-----------|
-|    26.01.2023  16:00 |  10         |
+|    25.01.2024  16:00 |  10         |
 
 --- 
 Przekroczenie terminu o **n** zajęć wiąże się z karą:
